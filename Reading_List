@@ -1,0 +1,55 @@
+Preparatory readings:
+
+How to use and install brms: https://cran.r-project.org/web/packages/brms/readme/README.html. Note: Before the second class the latest, the students are expected to have R (ideally with RStudio) and the package brms installed.
+
+Levshina, Natalia. 2025. A Bayesian dawn in linguistics: Trends, benefits and good practices. arXiv. https://doi.org/10.48550/arXiv.2509.17161
+
+Monday | Bayesian regression in language sciences: Main concepts and applications
+
+To be read before Tuesday’s class:
+
+Nalborczyk, Ladislas, Cédric Batailler, Hélène Loevenbruck, Anne Vilain, Paul-Christian Bürkner. 2019. An Introduction to Bayesian Multilevel Models Using brms: A Case Study of Gender Effects on Vowel Variability in Standard Indonesian. Journal of Speech, Language, and Hearing Research 62(5). https://doi.org/10.1044/2018_JSLHR-S-18-0006 
+Accessible from https://paulbuerkner.com/publications/pdf/2019__Nalborczyk_et_al__JSLHR.pdf
+
+Tuesday | Introduction to Bayesian mixed-effects models with brms
+
+To be read before Wednesday’s class:
+
+Levshina, Natalia. 2022. Comparing Bayesian and frequentist models of language variation: The case of help + (to) Infinitive. In Ole Schützler & Julia Schlüter (eds.), Data and methods in corpus linguistics – Comparative Approaches, 224–258. Cambridge: Cambridge University Press. 
+Accessible from https://levshina.github.io/docs/Levshina2022_BayesianVsFrequentist.pdf
+
+Wednesday | Modelling language variation: Bayesian logistic models
+
+To be read before Thursday’s class:
+
+Guzmán Naranjo, Matías & Laura Becker. 2022. Statistical bias control in typology. Linguistic Typology 26(3). 605–670. https://doi.org/10.1515/lingty-2021-0002
+
+Thursday | Testing linguistic universals: Phylogenetic models for linguistic typology
+
+To be read before Friday’s class:
+
+Schad, Daniel J., Bruno Nicenboim, Paul-Christian Bürkner, Michael Betancourt & Shravan Vasishth. 2023. Workflow techniques for the robust use of Bayes Factors. Psychological Methods 28(6). 1404–1426. https://doi.org/10.1037/met0000472. 
+Preprint version: https://paulbuerkner.com/publications/pdf/2022__Schad_et_al__Psychological_Methods.pdf
+
+Friday | The dos and don’ts of Bayes factors. Discussion of potential projects. Wrapping up.
+
+Further readings (optional):
+
+General principles of Bayesian statistics:
+
+Kaplan, David. 2024. Bayesian Statistics for the Social Sciences. 2nd edn. New York: The Guilford Press.
+Kruschke, John K. 2015. Doing Bayesian Data Analysis: A tutorial with R, JAGS, and Stan. 2nd edn. Amsterdam: Academic Press.
+Makowski, Dominique, Mattan S. Ben-Shachar, S. H. Annabel Chen and Daniel Lüdecke. 2019. Indices of effect existence and significance in the Bayesian framework. Frontiers in Psychology 10. 2767. https://doi.org/10.3389/fpsyg.2019.02767
+McElreath, Richard. 2016. Statistical Rethinking: A Bayesian course with examples in R and Stan. Boca Raton, FL: CRC Press.
+Nicenboim, Bruno & Shravan Vasishth. 2016. Statistical methods for linguistic research: Foundational Ideas – Part II. Language and Linguistics Compass 10. 591–613.
+Nicenboim, Bruno, Daniel J. Schad & Shravan Vasishth. 2026. Introduction to Bayesian Data Analysis for Cognitive Science. Boca Raton, FL: CRC Press.
+van de Schoot, Rens, Sarah Depaoli, Ruth King, Bianca Kramer, Kaspar Märtens, Mahlet G. Tadesse, Marina Vannucci, Andrew Gelman, Duco Veen, Joukje Willemsen & Christopher Yau. 2021. Bayesian statistics and modelling. Nature Review Methods Primers 1. 1. https://doi.org/10.1038/s43586-020-00001-2
+Vasishth, Shravan, Bruno Nicenboim, Mary E. Beckman, Fangfang Li, Eun Jong Kong. 2018. Bayesian data analysis in the phonetic sciences: A tutorial introduction. Journal of Phonetics 71. 147–161. https://doi.org/10.1016/j.wocn.2018.07.008
+ 
+
+Specific regression families:
+
+Bürkner, Paul-Christian. 2024. Estimating Phylogenetic Multilevel Models with brms. URL https://cran.r-project.org/web/packages/brms/vignettes/brms_phylogenetics.html
+Bürkner Paul-Christian & Vuorre M. 2019. Ordinal Regression Models in Psychology: A Tutorial. Advances in Methods and Practices in Psychological Science 2(1). 77–101. https://doi.org/10.1177/2515245918823199
+de Hoop, Helen, Natalia Levshina and Marianne Segers. The effect of the use of T or V pronouns in Dutch HR communication. Journal of Pragmatics 203. 96–109. https://doi/org/10.1016/j.pragma.2022.11.017
+Winter, Bodo & Paul-Christian Bürkner. 2021. Poisson regression for linguists: A tutorial introduction to modelling count data with brms. Language and Linguistics Compass 15(11). e12439. doi: 10.1111/lnc3.12439
