@@ -1,0 +1,28 @@
+This hands-on course combines a theoretical introduction to Bayesian statistics, case studies from different language sciences, and practical exercises with R.
+
+The course assumes some practical experience with R, ideally in combination with RStudio.
+
+Our main package will be brms. Installing it can be somewhat tricky because it relies on Stan, which is used to fit Bayesian models. 
+
+So please make sure you have it installed before the course starts.
+
+To run Stan, you will also need a C++ compiler available through RTools (Windows) or Xcode (Mac). You can find all necessary information here:
+
+https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started
+
+Once RStan is working correctly, you can install and use brms. 
+
+https://github.com/paul-buerkner/brms
+
+I strongly recommend carefully following all steps described in the documentation. 
+
+You can use this code to make sure if that Stan really works by fitting a model because library(brms) may not raise any warnings or error messages:
+
+install.packages("brms")
+library(brms)
+set.seed(10)
+data <- data.frame(Var = rnorm(100, 20, 1))
+model <- brm(Var ~ 1, data = data)
+summary(model)
+
+As an alternative, you can run R in Google Colab. However, this setup can be slower and less convenient, especially if you need to load a dataset, so I hope you will be able to use brms in RStudio on your own computer.
