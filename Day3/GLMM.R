@@ -30,11 +30,11 @@ get_prior(formula = my_formula, data = help_df, family = bernoulli)
 my_priors <- prior(cauchy(0, 2), class = b) + 
   prior(normal(0, 1), class = sd)
 
-help_brm <- brm(formula = my_formula, data = help_df, family = bernoulli, cores = 4)
+help_brm <- brm(formula = my_formula, data = help_df, prior = my_priors, family = bernoulli, cores = 4)
 
 summary(help_brm)
 
-cbind(fixef(help_glmer), fixef(help_brm)[, 1])
+cbind(glmer = fixef(help_glmer), brm = fixef(help_brm)[, 1])
 
 
 pp_check(help_brm)
