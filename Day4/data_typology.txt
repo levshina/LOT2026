@@ -1,0 +1,54 @@
+glottocode	name	genus	SO_Overlap	Entropy	glottocode_genus	macroarea	latitude	longitude
+afri1274	Afrikaans	Germanic	0.988505747	0.053587672	germ1287	Africa	-31.63272	20.46356
+anci1242	Ancient Greek	Greek	0.206179067	0.838659178	gree1276	Eurasia	39.8155	21.9129
+arab1395	Arabic	Semitic	0.292564281	0.190939693	semi1276	NA	31	31
+basq1248	Basque	Basque	0.551650692	0.749432275	basq1248	Eurasia	43.2787	-1.31622
+bela1254	Belarusian	Slavic	0.5	0.387428405	slav1255	Eurasia	53.2307	25.6038
+bulg1262	Bulgarian	Slavic	0.377192982	0.364306401	slav1255	Eurasia	43.3646	25.047
+chur1257	Church Slavic	Slavic	0.330578512	0.637023743	slav1255	Eurasia	43.7171	22.8442
+copt1239	Coptic	Egyptian	0.35	0	egyp1245	Africa	29.472	31.2053
+croa1245	Croatian	Slavic	0.459669582	0.470249945	slav1255	Eurasia	45.555	15.982
+czec1258	Czech	Slavic	0.48316376	0.763336307	slav1255	Eurasia	49.873398	15.10437
+dani1285	Danish	Germanic	0.56	0.208804559	germ1287	Eurasia	54.8655	9.36284
+dutc1256	Dutch	Germanic	0.979591837	0.307349806	germ1287	Eurasia	52	5
+esto1258	Estonian	Finnic	0.294416244	0.511129181	finn1317	Eurasia	58.55	25.82
+finn1318	Finnish	Finnic	0.213875387	0.384738446	finn1317	Eurasia	64.7628	25.5577
+gali1258	Galician	Romance	0.701171875	0.181287285	roma1334	Eurasia	42.2446	-7.5343
+goth1244	Gothic	Germanic	0.324786325	0.615395265	germ1287	Eurasia	46.9304	29.9786
+hebr1245	Modern Hebrew	Semitic	0.779220779	0.2517413	semi1276	Eurasia	31.1056	35.0179
+hind1269	Hindi	Indo-Aryan	0.487214927	0.316742189	indo1321	Eurasia	25	77
+hung1274	Hungarian	Hungaric	0.029288703	0.774967267	hung1287	Eurasia	46.9068585714	19.6555271429
+iris1253	Irish	Celtic	0.680851064	0	celt1248	Eurasia	53.2186	-7.61509
+ital1282	Italian	Romance	0.989576947	0.289313615	roma1334	Eurasia	43.0464	12.6489
+kaza1248	Kazakh	Turkic	0.16	0.41381685	turk1311	Eurasia	51.17	71.454
+lati1261	Latin	Latin	0.226480836	0.580825862	lati1261	Eurasia	41.9026	12.4502
+latv1249	Latvian	Eastern Baltic	0.073333333	0.67582457	east2280	Eurasia	56.826108	24.309118
+lith1251	Lithuanian	Eastern Baltic	0	0.938315352	east2280	Eurasia	55.1429	23.9601
+mand1415	Mandarin Chinese	Sinitic	0.997502082	0	sini1245	Eurasia	40.0209	116.228
+mara1378	Marathi	Indo-Aryan	0.7	0	indo1321	Eurasia	17.9344	76.6665
+mode1248	Modern Greek	Greek	0.75	0.364822154	gree1276	Eurasia	38.36	23.13
+nort2641	Northern Kurdish	Iranian	0.533333333	0	iran1269	Eurasia	37	43
+nort2671	North Saami	Saami	0.137681159	0.240913033	saam1281	Eurasia	68.725	22.1113
+norw1258	Norwegian	Germanic	0.60665362	0.107206614	germ1287	Eurasia	59.92	10.71
+nucl1301	Turkish	Turkic	0.291237113	0.437840059	turk1311	Eurasia	39.8667	32.8667
+nucl1643	Japanese	Japonic	0	0.232792682	japo1237	Eurasia	35	135
+poli1260	Polish	Slavic	0.363468635	0.695705762	slav1255	Eurasia	51.8439	18.6255
+port1283	Portuguese	Romance	0.990927419	0.082862292	roma1334	Eurasia	39.91	-8.1
+roma1327	Romanian	Romance	0.539901478	0.182967611	roma1334	Eurasia	46.3913	24.2256
+russ1263	Russian	Slavic	0.473894638	0.578108086	slav1255	Eurasia	59	50
+russ1264	Russia Buriat	Mongolic	0.441176471	0.472189385	mong1329	Eurasia	50.85331	105.5637
+serb1264	Serbian	Slavic	0.524416136	0.26720389	slav1255	Eurasia	44.3238	21.9192
+slov1268	Slovenian	Slavic	0.426020408	0.68838673	slav1255	Eurasia	46.2543	14.7766
+slov1269	Slovak	Slavic	0.465079365	0.636730233	slav1255	Eurasia	48.545705	18.78479
+stan1288	Spanish	Romance	0.66332574	0.194768782	roma1334	Eurasia	40.4414	-1.11788
+stan1289	Catalan	Romance	0.61106781	0.253523029	roma1334	Eurasia	41.453	1.569
+stan1290	French	Romance	0.991477273	0.031795681	roma1334	Eurasia	48	2
+stan1293	English	Germanic	0.925105485	0.072096741	germ1287	Eurasia	53	-1
+stan1295	German	Germanic	0.993664203	0.234484255	germ1287	Eurasia	48.649	12.4676
+swed1254	Swedish	Germanic	0.591812865	0.137198276	germ1287	Eurasia	59.800634	17.389526
+tami1289	Tamil	South Dravidian	0.370967742	0.965852866	sout3138	Eurasia	10.520219	78.825989
+ukra1253	Ukrainian	Slavic	0.3401222	0.585728066	slav1255	Eurasia	49.796	29.945
+uppe1395	Upper Sorbian	Slavic	0.468085106	0.3493807	slav1255	Eurasia	51.2403	14.4098
+urdu1245	Urdu	Indo-Aryan	0.48679868	0.385217955	indo1321	Eurasia	25	67
+viet1252	Vietnamese	Viet-Muong	0.996309963	0.324768413	viet1251	Eurasia	20.681188	105.774071
+west2369	Farsi	Iranian	0.277941176	0.215808929	iran1269	Eurasia	32.9	53.3
